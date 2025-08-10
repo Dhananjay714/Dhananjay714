@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Wadhi</h1>
-<h3 align="center">Aspiring Data Analyst | Python • Power BI • SQL • Streamlit</h3>
+<h3 align="center">Aspiring Data Analyst | Python • Power BI • SQL </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhananjay714&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay714" />
